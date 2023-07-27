@@ -6,7 +6,8 @@
 3. React & Firebase
 
 ## ⚡ Projects - that can be used publicly
-1. Social data analysis - NLP project
+1. Social data analysis - NLP project - https://github.com/alrizkipascar/social-data-science
+
 
 ## 👯 I’m looking to collaborate on
 1. ML research
