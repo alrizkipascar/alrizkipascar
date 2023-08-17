@@ -1,4 +1,4 @@
-# Hi there, welcom to my profile 👋
+# Hi there, welcome to my profile 👋
 
 ## 🌱 I’m currently learning
 1. Data Science
