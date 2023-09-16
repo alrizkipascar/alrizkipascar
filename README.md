@@ -14,7 +14,7 @@
 ## 👯 I’m looking to collaborate on
 1. Web development
 2. Script development
-3. Github bot
+3. Discord bot
 4. AWS development
 5. Data Analyst/Science
 
