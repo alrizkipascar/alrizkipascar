@@ -1,22 +1,17 @@
 # Hi there, welcome to my profile 👋
 
-## 🌱 I’m currently learning
-1. Data Analyst
-2. Next, Svelte, and Astro
+## 🌱 I’m currently diving into:
+1. Fullstack Development (Vue JS & Laravel)
+2. Next & Wordpress as CMS
 3. Go
-4. Rust (Soon)
+4. Redis
 
 ## ⚡ Projects - that can be used publicly
 1. Social data analysis - NLP project - https://github.com/alrizkipascar/social-data-science
 2. Data Analyst End to End (SQL, Power BI, Tableau) - https://github.com/alrizkipascar/Data-Analysis-Project
-3. Proof of Concept my future website. - https://github.com/alrizkipascar/webtemplate OR https://webtemplate-xi.vercel.app/
 
-## 👯 I’m looking to collaborate on
-1. Web development
-2. Script development
-3. Discord bot
-4. AWS development
-5. Data Analyst/Science
+
+
 
 
 <!--
