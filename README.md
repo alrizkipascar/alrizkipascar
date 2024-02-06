@@ -1,9 +1,9 @@
 # Hi there, welcome to my profile 👋
 
 ## 🌱 I’m currently diving into:
-1. Fullstack Development (Vue JS & Laravel)
+1. Fullstack Development (Vue JS & Laravel) / (React & Golang)
 2. Next & Wordpress as CMS
-3. Go
+3. Go, (Reading Golang book right now - Learning Go by Jon Bodner)
 4. Redis
 
 ## ⚡ Projects - that can be used publicly
