@@ -9,6 +9,7 @@
 ## ⚡ Projects - that can be used publicly
 1. Social data analysis - NLP project - https://github.com/alrizkipascar/social-data-science
 2. Data Analyst End to End (SQL, Power BI, Tableau) - https://github.com/alrizkipascar/Data-Analysis-Project
+3. Go JWT std lib w mux - [https://github.com/alrizkipascar/go-jwt](https://github.com/alrizkipascar/go-jwt)
 
 
 
