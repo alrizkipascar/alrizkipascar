@@ -12,7 +12,7 @@
 3. Go JWT std lib w mux - [https://github.com/alrizkipascar/go-jwt](https://github.com/alrizkipascar/go-jwt)
 
 
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alrizkipascar&size_weight=0.5&count_weight=0.5)
 
 
 <!--
