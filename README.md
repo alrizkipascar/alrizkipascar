@@ -11,9 +11,8 @@
 2. Data Analyst End to End (SQL, Power BI, Tableau) - https://github.com/alrizkipascar/Data-Analysis-Project
 3. Go JWT std lib w mux - [https://github.com/alrizkipascar/go-jwt](https://github.com/alrizkipascar/go-jwt)
 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alrizkipascar&size_weight=0.5&count_weight=0.5)
-
+## 💻 Tech Stack
+Language: https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E 
 
 <!--
 **alrizkipascar/alrizkipascar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
